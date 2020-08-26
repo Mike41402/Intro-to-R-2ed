@@ -1,7 +1,7 @@
 # R script to accompany Intro to R
 # Copy for Michael Fassert 2019
 ######################################################
-
+# Michael C. Fassert II
 # You will see that you can put non-executable "comment" lines
 # in your script by putting "#" at the beginning of the lines.
 # 
